@@ -19,7 +19,7 @@ From this day onwards (24th May, 2023) we, Akshay Jain and Vaidisha Mehta promis
     * Step 1.5 : Learn Basic Recursion
     * Step 1.6 : Learn Basic Hashing
 
-## 24 May, 2024 
+### 24 May, 2024 
   
 #### Akshay 
 - [ ] Step 1
